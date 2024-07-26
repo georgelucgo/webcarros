@@ -52,7 +52,7 @@ export function New() {
         if(image.type === 'image/jpeg' || image.type == 'image/png'){
          await handleUpload(image)
         } else {
-          alert('Envie u ma imagem jpeg ou png!')
+          alert('Envie uma imagem jpeg ou png!')
           return;
         }
         
