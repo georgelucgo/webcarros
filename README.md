@@ -25,7 +25,8 @@
 - Firebase Authentication
 - Firebase Firestore
 - React Router DOM
-- Vite 
+- Vite
+- Tailwind
 - Typescript
 
 ## 📲 WhatsApp Direct
